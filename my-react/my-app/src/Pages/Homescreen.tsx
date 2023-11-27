@@ -1,9 +1,11 @@
-import Hero from "./Hero"
+// import Hero from "./Hero"
+import Form from "../Components/Input/Form"
 
-const HomeScreen= ()=>{
+const HomeScreen = ()=>{
     return(
         <div>
-            <Hero/>
+            {/* <Hero/> */}
+            <Form/>
         </div>
     )
 };

@@ -1,6 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 import Layout from "../Block/Layout"
-import Hero from "../Pages/Hero"
+import HomeScreen from "../Pages/Homescreen";
+// import Hero from "../Pages/Hero"
 
 export const MainRouter = createBrowserRouter ([
     {
@@ -9,7 +10,7 @@ export const MainRouter = createBrowserRouter ([
         children: [
             {
                 index:true,
-                element:<Hero/>
+                element:<HomeScreen/>
             }
         ]
     }

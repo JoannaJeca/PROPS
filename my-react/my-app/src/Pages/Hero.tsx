@@ -1,6 +1,6 @@
 import { styled } from "styled-components"
 import Minicards from "../Props/GlobalCards"  
-import data from './data.json'
+import data from '../MYJSON/data.json'
 
 
 const CardDisplay = () =>{

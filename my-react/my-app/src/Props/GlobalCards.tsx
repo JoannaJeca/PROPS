@@ -32,7 +32,7 @@ top:0;
 width:100%;
 height:100%;
 border-radius:10px;
-background-color:red;
+background-color:rgba(0,0,0,0.9);
 display:flex;
 justify-content:center;
 align-items:center;
@@ -65,7 +65,8 @@ img{
     width: 100%;
     height: 100%;
 border-radius: 10px;
-}&:hover{
+};
+&:hover{
     border: 3px solid grey;
     background-color: rgba(0,0,0,0.9);
     border-radius: 10px;
@@ -76,5 +77,9 @@ const Wrapper = styled.div`
     width: 250px;
     height: 246px;
     color: white;
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    transition:all ease-in-out 350ms;
 
 `

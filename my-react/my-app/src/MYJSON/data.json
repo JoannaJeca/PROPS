@@ -1,39 +1,39 @@
 [
     {
 
-        "Pic" : "../assets/Images/hulu1.jpeg",
+        "Pic" : "../../Images/hulu1.jpeg",
         "Title" : "DEEP",
         "Category" : "R • Thriller, Latino • Movie"
     },
     {
-        "Pic" : "../assets/Images/hulu2.jpeg",
+        "Pic" : "../../Images/hulu2.jpeg",
         "Title" : "No Exit",
         "Category" : "R • Thriller, Horror • Movie"
     },
     {
-        "Pic" : "../assets/Images/hulu3.jpeg",
+        "Pic" : "../../Images/hulu3.jpeg",
         "Title" : "Vacation Friends",
         "Category" : "R • Comedy, Black Stories •"
     },
     {
-        "Pic" : "../assets/Images/hulu4.jpeg",
+        "Pic" : "../../Images/hulu4.jpeg",
         "Title" : "Derek DelGaudio's",
         "Category" : "TVMA • Drama, Biography •"
     },
     {
-        "Pic" : "../assets/Images/hulu5.jpeg",
+        "Pic" : "../../Images/hulu5.jpeg",
         "Title" : "The A-Team",
         "Category" : "PG-13 • Action • Thriller Movie... "
     },{
-        "Pic" : "../assets/Images/hulu6.jpeg",
+        "Pic" : "../../Images/hulu6.jpeg",
         "Title" : "Phone Booth",
         "Category" : "R • Thriller • Movie (2003)"
     },{
-        "Pic" : "../assets/Images/hulu7.jpeg",
+        "Pic" : "../../Images/hulu7.jpeg",
         "Title" : "Notting Hill",
         "Category" : "PG-13 • Comedy, Romance Movie..."
     },{
-        "Pic" : "../assets/Images/hulu8.jpeg",
+        "Pic" : "../../Images/hulu8.jpeg",
         "Title" : "Mortal Kombat",
         "Category" : "R • Science Fiction, Action, Movie..."
     }
